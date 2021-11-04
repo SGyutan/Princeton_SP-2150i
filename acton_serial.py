@@ -11,7 +11,7 @@ com is comport number.
     Windows example: com = 'COM2'
     Linux example: com = '/dev/ttyUSB0'
 
-Rython: 3.7 over
+Python: 3.7 over
 Requiremnt module: pyserial
 
 """
